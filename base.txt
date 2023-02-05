@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/png" href="icon.ico" />
+    <link rel="stylesheet" href="style.css">
+    <title>Literame | Inicio </title>
+</head>
+<body>
+    
+<header>
+
+    <div id="icontittle">
+        <img src="ico.jpg" alt="icono" id="icono">
+        <p> Literame </p>
+    </div>
+    <div id="social">
+        <img src="instagram.png" alt="">
+    </div>
+</header>
+<nav>
+    <a href="#" class="link">Categorias</a>
+    <a href="#" class="link">Nosotros</a>
+    <a href="#" class="link"></a>
+</nav>
+<main>
+    <section class="banner">
+
+    </section>
+</main>
+</body>
+</html>

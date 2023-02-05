@@ -1,0 +1,71 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    height: 35px;
+    width: 1hw;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+}
+
+#icontittle{
+    
+    
+    display: flex;
+    align-items: center;
+}
+
+#icontittle p{
+    color: white;
+    font-size: 16px;
+    font-family: monospace;
+    margin-left: 5px;
+}
+
+#icono{
+    width: 35px;
+    height: 35px;
+    margin-left: 5px;
+    background-color: black;
+}
+
+#social{
+    display: flex;
+    align-items: center;
+    width: 10%;
+    height: 100%;
+    padding: 0 10px 0 10px;
+}
+
+#social img{
+    height: 25px;
+    width: 25px;
+
+    
+}
+
+nav{
+    height: 40px;
+    width: 100%;
+    background-color: #0e0e0e;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+nav a{
+    margin: 5px;
+    text-decoration: none;
+    color: white;
+}
+
+nav a:hover{
+    margin: 5px;
+    border-bottom: 3px solid white;
+    text-decoration: none;
+    color: white;
+}
